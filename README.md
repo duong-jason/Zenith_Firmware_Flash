@@ -1,3 +1,3 @@
-# Zenith_Fireware_Flash
+# Zenith_Firmware_Flash
 
-Backup Fireware Code for the Ion Foundary Zenith Edition Keyboard by Rama Works
+Backup Firmware Code for the Ion Foundary Zenith Edition Keyboard by Rama Works
